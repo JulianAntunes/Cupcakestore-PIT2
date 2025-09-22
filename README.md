@@ -2,11 +2,13 @@
 
 ## Links úteis.
 
-Site online de pedidos Cupcake Store.
-[Sintaxe_Basica_Markdown](https://cupcakestore.rf.gd/)
+## Links úteis
 
-Site online de acesso ADM.
-[Sintaxe_Basica_Markdown](https://cupcakestore.rf.gd/wp-admin/)
+Site online de pedidos Cupcake Store:  
+[https://cupcakestore.rf.gd/](https://cupcakestore.rf.gd/)
 
-User: Admin
+Site online de acesso ADM:  
+[https://cupcakestore.rf.gd/wp-admin/](https://cupcakestore.rf.gd/wp-admin/)
+
+User: Admin  
 Password: admin123
