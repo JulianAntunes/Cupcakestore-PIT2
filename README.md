@@ -11,4 +11,4 @@ Site online de acesso ADM:
 [https://cupcakestore.rf.gd/wp-admin/](https://cupcakestore.rf.gd/wp-admin/)
 
 User: Admin  
-Password: admin123
+Password: admin2025*
